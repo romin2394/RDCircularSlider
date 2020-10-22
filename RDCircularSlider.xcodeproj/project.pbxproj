@@ -16,7 +16,7 @@
 		D6A40B1925076430004EF43C /* RDCircularSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A40B1825076430004EF43C /* RDCircularSlider.swift */; };
 		D6A40B1B25076447004EF43C /* RDCircularSliderHandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A40B1A25076447004EF43C /* RDCircularSliderHandle.swift */; };
 		D6A40B1D25076505004EF43C /* RDCircularSlider+IB.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A40B1C25076505004EF43C /* RDCircularSlider+IB.swift */; };
-		D6E01DE625419235006D3B9C /* snap.png in Resources */ = {isa = PBXBuildFile; fileRef = D6E01DE525419235006D3B9C /* snap.png */; };
+		D6E01DE625419235006D3B9C /* snap1.png in Resources */ = {isa = PBXBuildFile; fileRef = D6E01DE525419235006D3B9C /* snap1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		D6A40B1825076430004EF43C /* RDCircularSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RDCircularSlider.swift; sourceTree = "<group>"; };
 		D6A40B1A25076447004EF43C /* RDCircularSliderHandle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RDCircularSliderHandle.swift; sourceTree = "<group>"; };
 		D6A40B1C25076505004EF43C /* RDCircularSlider+IB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RDCircularSlider+IB.swift"; sourceTree = "<group>"; };
-		D6E01DE525419235006D3B9C /* snap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snap.png; sourceTree = "<group>"; };
+		D6E01DE525419235006D3B9C /* snap1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snap1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +72,7 @@
 				D6A40B0C2507637A004EF43C /* Assets.xcassets */,
 				D6A40B0E2507637A004EF43C /* LaunchScreen.storyboard */,
 				D6A40B112507637A004EF43C /* Info.plist */,
-				D6E01DE525419235006D3B9C /* snap.png */,
+				D6E01DE525419235006D3B9C /* snap1.png */,
 			);
 			path = RDCircularSlider;
 			sourceTree = "<group>";
@@ -147,7 +147,7 @@
 			files = (
 				D6A40B102507637A004EF43C /* LaunchScreen.storyboard in Resources */,
 				D6A40B0D2507637A004EF43C /* Assets.xcassets in Resources */,
-				D6E01DE625419235006D3B9C /* snap.png in Resources */,
+				D6E01DE625419235006D3B9C /* snap1.png in Resources */,
 				D6A40B0B25076375004EF43C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
